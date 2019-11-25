@@ -10,3 +10,4 @@
 /Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/Labb3Tipcalc.dll
 /Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/ref/Labb3Tipcalc.dll
 /Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/Labb3Tipcalc.pdb
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/Labb3Tipcalc.csprojAssemblyReference.cache

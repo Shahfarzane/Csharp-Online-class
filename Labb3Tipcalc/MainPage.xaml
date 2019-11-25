@@ -5,27 +5,27 @@
 
         <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
         <Label Text="Total Bill:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
-        <Label x:Name="TotalAmount" Text="0 SEK" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="totalAmount" Text="0 SEK" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
         </StackLayout>
 
 
        <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
         <Label Text="VAT Rate:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
-        <Label x:Name="VatRate"  Text="0%" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="vatRate"  Text="0%" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
        </StackLayout>
 
        <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
         <Label Text="Calculated Amount:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
-        <Label x:Name="WhitoutVat" Text="0" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="whitoutVat" Text="0" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
        </StackLayout>
 
         <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
         <Label Text="Calculated VAT:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
-        <Label x:Name="CalculatedVat" Text="0" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="calculatedVat" Text="0" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
         </StackLayout>
 
         <StackLayout Margin="0,0,0,30">
-        <Entry x:Name="UserEntry" Placeholder="Enter the amount of the bill including VAT" />
+        <Entry x:Name="userEntry" Placeholder="Enter the amount of the bill including VAT" />
         </StackLayout>
 
         <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
