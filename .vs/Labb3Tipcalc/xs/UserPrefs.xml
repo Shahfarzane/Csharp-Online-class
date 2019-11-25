@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F01627BF-4ED7-4AB7-ADF0-B598F5EAEB2B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labb3Tipcalc/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Labb3Tipcalc/MainPage.xaml.cs" Line="57" Column="21" />
+      <File FileName="Labb3Tipcalc/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labb3Tipcalc" expanded="True">
+            <Node name="Labb3Tipcalc" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Labb3Tipcalc.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Labb3Tipcalc.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3A495151-F372-4A66-B075-CF029340DFD2" />
+  <MultiItemStartupConfigurations />
+</Properties>

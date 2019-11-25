@@ -1,0 +1,12 @@
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/bin/Debug/netstandard2.0/Labb3Tipcalc.deps.json
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/bin/Debug/netstandard2.0/Labb3Tipcalc.dll
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/bin/Debug/netstandard2.0/ref/Labb3Tipcalc.dll
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/bin/Debug/netstandard2.0/Labb3Tipcalc.pdb
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/Labb3Tipcalc.AssemblyInfoInputs.cache
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/Labb3Tipcalc.AssemblyInfo.cs
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/Labb3Tipcalc.dll
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/ref/Labb3Tipcalc.dll
+/Users/shahinfarzane/Projects/Labb3Tipcalc/Labb3Tipcalc/obj/Debug/netstandard2.0/Labb3Tipcalc.pdb

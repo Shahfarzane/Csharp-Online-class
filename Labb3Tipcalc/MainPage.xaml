@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Labb3Tipcalc.MainPage" Padding="10">
+
+<StackLayout VerticalOptions="Center">
+
+        <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
+        <Label Text="Total Bill:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="TotalAmount" Text="0 SEK" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+
+
+       <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
+        <Label Text="VAT Rate:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="VatRate"  Text="0%" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+       </StackLayout>
+
+       <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
+        <Label Text="Calculated Amount:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="WhitoutVat" Text="0" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+       </StackLayout>
+
+        <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
+        <Label Text="Calculated VAT:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="CalculatedVat" Text="0" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+
+        <StackLayout Margin="0,0,0,30">
+        <Entry x:Name="UserEntry" Placeholder="Enter the amount of the bill including VAT" />
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical" Margin="0, 0, 0, 40">
+        <Button Text="8%" Clicked="ButtonEightPrecent"/>
+        <Button Text="12%" Clicked="ButtonTwelvePrecent"/>
+        <Button Text="25%" Clicked="ButtonTwentyFivePrecent"/>
+        </StackLayout>
+
+
+    </StackLayout>
+</ContentPage>
